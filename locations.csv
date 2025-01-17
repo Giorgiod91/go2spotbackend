@@ -1,0 +1,16 @@
+vibe,budget,time,groupsize,destination,location
+nightlife,low,evening,2,Barcelona,El Raval
+adventure,medium,morning,4,Barcelona,Montjuïc Park
+relaxation,high,afternoon,1,Barcelona,La Barceloneta Beach
+nightlife,medium,night,5,Paris,Moulin Rouge
+cultural,high,morning,2,Paris,Louvre Museum
+adventure,low,afternoon,3,Paris,Bois de Boulogne
+relaxation,medium,evening,1,New York,Central Park
+nightlife,high,night,6,New York,Times Square
+cultural,medium,morning,2,New York,The Metropolitan Museum of Art
+adventure,low,afternoon,4,Tokyo,Mount Takao
+relaxation,medium,evening,3,Tokyo,Odaiba Beach
+nightlife,high,night,5,Tokyo,Shinjuku Golden Gai
+adventure,medium,morning,2,Sydney,Sydney Harbour Bridge
+relaxation,high,afternoon,1,Sydney,Bondi Beach
+cultural,low,evening,3,Sydney,Sydney Opera House
