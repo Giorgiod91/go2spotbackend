@@ -1,0 +1,2 @@
+- add data to the data set for every user (for now will local state without a database and the model learns from it)
+- 
